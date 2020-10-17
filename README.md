@@ -44,3 +44,5 @@ This Youtube Embeded file link will present you with my initial Code Review of t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tugKU2BKKeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gwz0x6kJgyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0i2ofRgGfQA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Summarized in a final report is my professional self-assessment. [https://github.com/wolfesamk/wolfesamk.github.io/blob/master/swolfe%20Capstone%20Project%20Report.docx]
