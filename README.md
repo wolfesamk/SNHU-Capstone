@@ -3,7 +3,7 @@
 ### Current Project
 
 My current Project is the development of a solid automated fully interactable 5th Edition Dungeons and Dragons Character Sheet script for use within the game Tabletop Simulator.
-Below is the two most recent version update patchnotes related to my script.
+Below is the three most recent version update patchnotes related to my script. At the time of script submission I was confident in my scripts ability to function, and I still am. In play testing with friends I have found and hot-fixed several errors with the script as well had begun to optimize the script to allow for better resource management within the script. This was put on hold as our play group was also put on hold for my wife to focus her efforts on school. 
 
 ```Recent Patchnotes
 `--Version v1
@@ -34,15 +34,15 @@ Below is the two most recent version update patchnotes related to my script.
 	--Changed attack misc mods minimum to -10
 	--Moved Attack Change stats to its own function to prevent prgram overload.
 	--upped Spell Slot Maximum totals to 9.`
+	
+--Version v1
+	--Edit By: RC3117
+	--Date: Oct. 14th, 2020
+	--Changed Base sheet graphic to allow for room to add Random Dice roll feature
+	--Created Random Dice roll Feature.
 ```
 
 For a more indepth look see my opensource code here [https://github.com/wolfesamk/wolfesamk.github.io/blob/master/swolfe%205e%20CS%20v1.lua]
 
-### Code Review
-This Youtube Embeded file link will present you with my initial Code Review of the opensource script I utilized as my basis as well as the changes I intended to make. As time progressed with the project the scope and goals changed slightly.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LOSSb38Mouo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tugKU2BKKeA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gwz0x6kJgyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0i2ofRgGfQA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Summarized in a final report is my professional self-assessment. [https://github.com/wolfesamk/wolfesamk.github.io/blob/master/swolfe%20Capstone%20Project%20Report.docx]
