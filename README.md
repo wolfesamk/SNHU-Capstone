@@ -2,8 +2,12 @@
 
 ### Current Project
 
-My current Project is the development of a solid automated fully interactable 5th Edition Dungeons and Dragons Character Sheet script for use within the game Tabletop Simulator.
-Below is the three most recent version update patchnotes related to my script. At the time of script submission I was confident in my scripts ability to function, and I still am. In play testing with friends I have found and hot-fixed several errors with the script as well had begun to optimize the script to allow for better resource management within the script. This was put on hold as our play group was also put on hold for my wife to focus her efforts on school. 
+Currently I am working on modifiying the 5e D&D Character Sheet script for use with a different game, Worlds Without Number. While I classify this as a modifying the script the goal is to restructure the logical loops within the script to better utilise system resources within TTS.
+
+### Previous Project
+
+My previous Project was the development of a solid, automated fully interactable 5th Edition Dungeons and Dragons Character Sheet script for use within the game Tabletop Simulator.
+Below is the three most recent version update patchnotes related to my script. At the time of script submission I was confident in my scripts ability to function, and I still am. In play testing with friends I have found and hot-fixed several errors with the script as well had begun to optimize the script to allow for better resource management within the script. This was put on hold as our play group was also put on hold for my wife to focus her efforts on school.
 
 ```Recent Patchnotes
 `--Version v1
@@ -43,6 +47,3 @@ Below is the three most recent version update patchnotes related to my script. A
 ```
 
 For a more indepth look see my opensource code here [https://github.com/wolfesamk/wolfesamk.github.io/blob/master/swolfe%205e%20CS%20v1.lua]
-
-
-Summarized in a final report is my professional self-assessment. [https://github.com/wolfesamk/wolfesamk.github.io/blob/master/swolfe%20Capstone%20Project%20Report.docx]
