@@ -1,7 +1,7 @@
-## Welcome to my GitHub Pages
+## Welcome to my SNHU Computer Science Capstone Project
 
 ### Current Project
-
+This project is indefinetly on hold.
 Currently I am working on modifiying the 5e D&D Character Sheet script for use with a different game, Worlds Without Number. While I classify this as a modifying the script the goal is to restructure the logical loops within the script to better utilise system resources within TTS.
 
 ### Previous Project
