@@ -46,4 +46,4 @@ Below is the three most recent version update patchnotes related to my script. A
 	--Created Random Dice roll Feature.
 ```
 
-For a more indepth look see my opensource code here [https://github.com/wolfesamk/wolfesamk.github.io/blob/master/swolfe%205e%20CS%20v1.lua]
+For a more indepth look see my opensource code here (https://github.com/wolfesamk/wolfesamk.snhucapstone.github.io/blob/6ed7a7feb5edc005d62b49025970166af0c3ac02/swolfe%205e%20CS%20v1.lua)
